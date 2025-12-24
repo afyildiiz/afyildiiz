@@ -1,4 +1,4 @@
-# Hi, I'm Fatih 👋
+# Hi, I'm Fatih
 
 I'm a **Software Developer** focused on building scalable web applications and backend systems.
 
@@ -6,7 +6,7 @@ I enjoy designing clean APIs, working with distributed systems, and turning comp
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 - Building backend-heavy web applications and APIs
 - Designing and maintaining data migration & integration pipelines
@@ -18,7 +18,7 @@ I mostly work on **server-side logic**, but I’m comfortable collaborating acro
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ### Backend & APIs
 - **Python**, FastAPI
@@ -43,7 +43,7 @@ I mostly work on **server-side logic**, but I’m comfortable collaborating acro
 
 ---
 
-## 🚀 What I Like Working On
+## What I Like Working On
 
 - Backend systems that scale
 - API-first product development
