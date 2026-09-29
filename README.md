@@ -50,4 +50,3 @@ I mostly work on **server-side logic**, but I’m comfortable collaborating acro
 - Automation & tooling
 - Data-heavy workflows
 - Improving developer experience
-
